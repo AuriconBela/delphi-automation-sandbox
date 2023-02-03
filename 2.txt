@@ -1,0 +1,18 @@
+https://github.com/wasabeef/awesome-android-ui
+https://www.bignerdranch.com/blog/kotlin-when-to-use-lazy-or-lateinit/
+https://developer.android.com/jetpack/guide
+ctrl+alt+L szöveg formázás
+implementation 'com.facebook.shimmer:shimmer:0.5.0'
+:seralizable implementálása ha a komplett állapotmentésre szükség van
+
+
+
+
+kérdések:
+	- release verziót hogyan lehet kiadni? ha átállítom, akkor arra kér, hogy adjak meg signing configuration-t
+	
+	https://medium.com/androiddevelopers/database-inspector-9e91aa265316
+https://developer.android.com/distribute/console
+
+
+
